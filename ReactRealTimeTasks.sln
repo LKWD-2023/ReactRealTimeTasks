@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactRealTimeTasks.Web", "ReactRealTimeTasks.Web\ReactRealTimeTasks.Web.csproj", "{F23C1C4E-104C-4DED-8112-33F19AA9842C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactRealTimeTasks.Data", "ReactRealTimeTasks.Data\ReactRealTimeTasks.Data.csproj", "{45D3B853-276D-4EF1-A31F-DE441373A3A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F23C1C4E-104C-4DED-8112-33F19AA9842C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F23C1C4E-104C-4DED-8112-33F19AA9842C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F23C1C4E-104C-4DED-8112-33F19AA9842C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F23C1C4E-104C-4DED-8112-33F19AA9842C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45D3B853-276D-4EF1-A31F-DE441373A3A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45D3B853-276D-4EF1-A31F-DE441373A3A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45D3B853-276D-4EF1-A31F-DE441373A3A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45D3B853-276D-4EF1-A31F-DE441373A3A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E998247-ED1C-4986-B6A5-D4A72718B39C}
+	EndGlobalSection
+EndGlobal
