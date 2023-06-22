@@ -34,6 +34,11 @@ namespace ReactRealTimeTasks.Web
             }));
         }
 
+        public void LogStuff(string s)
+        {
+            Console.WriteLine(s);
+        }
+
         public void GetAll()
         {
             SendTasks();
